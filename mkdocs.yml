@@ -2,3 +2,9 @@ site_name: Zahir Mahammad
 
 theme:
   name: 'rtd-dropdown'
+  custom_dir: overrides
+
+
+# nav:
+  # - Home: index.md
+  # - About: about.md
