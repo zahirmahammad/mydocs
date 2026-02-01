@@ -26,3 +26,7 @@ Is it working??
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+```bash
+mkdocs gh-deploy --remote-name xxxx
+```
