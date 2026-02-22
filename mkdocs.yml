@@ -1,10 +1,13 @@
 site_name: Zahir Mahammad
 
 theme:
-  name: 'rtd-dropdown'
-  custom_dir: overrides
+  # name: 'rtd-dropdown'
+  name: 'readthedocs'
+  # custom_dir: overrides
 
+site_url: https://zahirmahammad.github.io/mydocs/
 
-# nav:
-  # - Home: index.md
-  # - About: about.md
+nav:
+  - Intro & (about the documentation): index.md
+  - Jetson Nano GUI without Monitor: 02_jetson.md
+  - UV Python (All you need to know): 03_uv_usage.md

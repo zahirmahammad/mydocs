@@ -1,10 +1,10 @@
-# About
+### About
 
 I am Zahiruddin Mahammad.
 
 This is documentation site, that I write down, when I find an uncommon issue.
 
-I hope this helps anyone that require this.
+I hope this helps anyone that are facing these issues.
 
 ---
 
