@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://zahirmahammad.github.io/mydocs/</loc>
-         <lastmod>2026-02-22</lastmod>
+         <lastmod>2026-02-23</lastmod>
     </url>
     <url>
          <loc>https://zahirmahammad.github.io/mydocs/02_jetson/</loc>
-         <lastmod>2026-02-22</lastmod>
+         <lastmod>2026-02-23</lastmod>
     </url>
     <url>
          <loc>https://zahirmahammad.github.io/mydocs/03_uv_usage/</loc>
-         <lastmod>2026-02-22</lastmod>
+         <lastmod>2026-02-23</lastmod>
+    </url>
+    <url>
+         <loc>https://zahirmahammad.github.io/mydocs/04_GenesisSim/</loc>
+         <lastmod>2026-02-23</lastmod>
     </url>
 </urlset>
