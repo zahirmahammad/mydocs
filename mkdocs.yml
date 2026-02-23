@@ -11,3 +11,4 @@ nav:
   - Intro & (about the documentation): index.md
   - Jetson Nano GUI without Monitor: 02_jetson.md
   - UV Python (All you need to know): 03_uv_usage.md
+  - Genesis Simulator: 04_GenesisSim.md
